@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [portfolio soon...](portfolio soon...)
+- 👨‍💻 All of my projects are available at (portfolio soon...)
 
 - 💬 Ask me about **works on Discord!**
 
